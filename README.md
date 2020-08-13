@@ -1,2 +1,1 @@
-# testProject
-test project.
+# これは遊びで作ったものです
